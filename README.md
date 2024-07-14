@@ -1,2 +1,1 @@
-# Login-page-using-css-
-This is a login page made using only css.
+# This is a login page made using HTML and CSS.
